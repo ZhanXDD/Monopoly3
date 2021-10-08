@@ -1,0 +1,23 @@
+
+ edu.ncsu.monopoly.Die#getRoll()Id
+ZC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/Die.java ("1*Æ
+1d
+ZC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/Die.java		 	(
+©
+¦
+d
+ZC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/Die.java		 	(
+
+%0java.util.Random"__id* *
+edu.ncsu.monopoly.Die"
+r¾»
+d
+ZC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/Die.java		 	(	
+%1int"java.util.Random#nextInt(I)I*
+
+%0java.util.Random*22
+nextInt(I)"n
+d
+ZC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/Die.java	 	(
+""B
+edu.ncsu.monopoly.Die

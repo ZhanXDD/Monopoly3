@@ -1,0 +1,20 @@
+
+<edu.ncsu.monopoly.gui.PlayerPanel#isRollDiceButtonEnabled()Zr
+fC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.java ('"1*œ
+1r
+fC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.javaŽ	 Ž(Ð
+Í
+r
+fC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.javaŽ	 Ž(
+%0javax.swing.JButton"__id*6*4#
+!edu.ncsu.monopoly.gui.PlayerPanel"
+btnRollDiceÑÎ
+r
+fC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.javaŽ	 Ž( 
+%1boolean"java.awt.Component#isEnabled()Z*
+
+%0javax.swing.JButton2isEnabled()"|
+r
+fC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.javaŽ Ž(!
+""B%#
+!edu.ncsu.monopoly.gui.PlayerPanel

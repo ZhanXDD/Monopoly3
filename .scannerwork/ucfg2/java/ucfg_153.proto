@@ -1,0 +1,21 @@
+
+;edu.ncsu.monopoly.gui.PlayerPanel#isEndTurnButtonEnabled()Zr
+fC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.javaÅ Å(&"1*õ
+1r
+fC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.javaÇ	 Ç(œ
+Ã
+r
+fC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.javaÇ	 Ç(
+%0javax.swing.JButton"__id*5*3#
+!edu.ncsu.monopoly.gui.PlayerPanel"
+
+btnEndTurn—Œ
+r
+fC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.javaÇ	 Ç(
+%1boolean"java.awt.Component#isEnabled()Z*
+
+%0javax.swing.JButton2isEnabled()"|
+r
+fC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.javaÇ Ç( 
+""B%#
+!edu.ncsu.monopoly.gui.PlayerPanel

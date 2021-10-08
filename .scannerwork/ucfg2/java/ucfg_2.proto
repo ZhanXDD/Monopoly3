@@ -1,0 +1,48 @@
+
+Jedu.ncsu.monopoly.GameBoard#getPropertyNumberForColor(Ljava/lang/String;)Ij
+`C:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/GameBoard.javaL L(%"3*¬
+2j
+`C:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/GameBoard.javaO
+ O(ÄÁ
+j
+`C:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/GameBoard.javaO
+ O(	
+%2int"java.lang.Integer#intValue()I*
+
+numberjava.lang.Integer2
+intValue()"t
+j
+`C:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/GameBoard.javaO O(
+""*¶
+3j
+`C:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/GameBoard.javaM M(À
+½
+j
+`C:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/GameBoard.javaM M(
+%0java.util.HashMap"__id*0*.
+edu.ncsu.monopoly.GameBoard"
+colorGroupsÉ
+Æ
+j
+`C:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/GameBoard.javaM M((
+%1java.lang.Integer"__mapGet*
+
+%0java.util.HashMap*
+
+namejava.lang.String­
+ª
+j
+`C:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/GameBoard.javaM M()
+numberjava.lang.Integer"__id*
+
+%1java.lang.Integer*
+2
+1*å
+1j
+`C:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/GameBoard.javaQ	 Q(
+"t
+j
+`C:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/GameBoard.javaQ Q(
+"":
+namejava.lang.StringB
+edu.ncsu.monopoly.GameBoard

@@ -1,0 +1,7 @@
+organization=angelyaozhan
+projectKey=Monopoly3StaticVerification
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23273
+dashboardUrl=https://sonarcloud.io/dashboard?id=Monopoly3StaticVerification
+ceTaskId=AXvvfbl0jWeJRfcwLVkf
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXvvfbl0jWeJRfcwLVkf

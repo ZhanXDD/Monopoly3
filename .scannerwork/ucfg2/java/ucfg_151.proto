@@ -1,0 +1,20 @@
+
+<edu.ncsu.monopoly.gui.PlayerPanel#isBuyHouseButtonEnabled()Zp
+fC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.javay y('"1*”
+1p
+fC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.javaz	 z(Î
+Ë
+p
+fC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.javaz	 z(
+%0javax.swing.JButton"__id*6*4#
+!edu.ncsu.monopoly.gui.PlayerPanel"
+btnBuyHouseÏÌ
+p
+fC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.javaz	 z( 
+%1boolean"java.awt.Component#isEnabled()Z*
+
+%0javax.swing.JButton2isEnabled()"z
+p
+fC:/Users/elgor/Documents/Universidad/3 Curso/Software/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.javaz z(!
+""B%#
+!edu.ncsu.monopoly.gui.PlayerPanel
